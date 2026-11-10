@@ -1,5 +1,5 @@
 <a href="https://alexeiguchin.me">
-  <img src="./assets/profile-banner.svg" alt="Alexei Guchin — Software engineer · AI & computer vision · 4+ years of experience" width="1200" />
+  <img src="./assets/profile-banner.svg?v=2" alt="Alexei Guchin — Software engineer · AI & computer vision · 4+ years of experience" width="1200" />
 </a>
 
 [Portfolio](https://alexeiguchin.me) · [LinkedIn](https://www.linkedin.com/in/alexei-guchin-corominas-6354341a6/)
